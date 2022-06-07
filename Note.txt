@@ -1,0 +1,7 @@
+FirstName=Donald
+&LastName=Opubor
+&Email=richardOpubor%40gmail.com
+&Password=12345
+&Gender=male
+&Dogs=on
+&Cars=Audi&Belts=Gucci
